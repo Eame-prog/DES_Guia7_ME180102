@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XHiaA1GsdoSb4g8+9nn9gIGjEhM3hoRSpGWpA8FXUeQ=",
+  "Source": "APIGateway_ME180102",
+  "BasePath": "_content/APIGateway_ME180102",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
